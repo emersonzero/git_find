@@ -1,0 +1,24 @@
+1 - npm create vite@latest
+2 - nome do projeto
+3 - escolha o tipo de projeto
+4 - entrar na pasta criada
+5 - Instalar as dependências    #npm i react-router-dom react-icons 
+6 - iniciar a aplicação         #npm run dev
+7 - limpar as pastas App.css, index.css.
+8 - limpar as informações dentro da App.tsx (div className="App")
+9 - buscar fonte no google fonts e escolha a fonte Inter. Depois copie e cole no index.html.
+10 - modificar o index.css(css global)
+11 - configurar o react-router-dom (main.tsx)
+12 - importar createBrowerRouter e RouterProvider
+13 - criar a pasta router dentro do src e dentro criamos o arquivo Home.tsx
+14 - criar as rotas na pasta main.tsx e import o routes
+15 - criar uma pasta components e dentro criar o search.tsx
+16 - criamos as div's e o button dentro do componente e importamos dentro do Home.
+17 - importar o UseState dentro da Home e criar o estado dentro da const Home.
+18 - criar uma pasta Type e dentro dele um arquivo user.ts para reaproveitamento
+19 - criar uma função loadUser para carregar o usuário  da API do Git
+20 - começar a criar o css model.
+21 - renomear a pasta App.css para App.module.css
+22 - desenvolver o componente do usuário que retirou a api
+23 - fazer uma função para o evento Enter no input
+24 - fazer o componente de erro

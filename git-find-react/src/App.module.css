@@ -1,0 +1,14 @@
+/* 
+    we import witch name classes this module for file App.tsx
+
+*/
+
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.app h1 {
+    text-align: center;
+    margin-bottom: 1 rem;
+}

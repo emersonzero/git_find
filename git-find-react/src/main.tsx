@@ -12,7 +12,7 @@ import Home from './routes/Home'
 const router = createBrowserRouter([
   {
     path: "/", //home
-    element: <App />, //irá se repetir por toda aplicação
+    element: <App />, 
     children: [
       {
         path: "/",
